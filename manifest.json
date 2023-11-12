@@ -1,0 +1,21 @@
+{
+  "background_color": "#ff7300",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Yam Yam Sushi",
+  "short_name": "Yam Yam Sushi",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "ru.yamyamsushi.app"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=ru.yamyamsushi.app",
+      "id": "ru.yamyamsushi.app"
+    }
+  ],
+  "prefer_related_applications": true
+}

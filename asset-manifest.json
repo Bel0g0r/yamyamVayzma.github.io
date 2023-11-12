@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/yamyamVayzma.github.io/static/css/main.32590628.css",
+    "main.js": "/yamyamVayzma.github.io/static/js/main.9f5780c2.js",
+    "static/js/356.4fb4fb2e.js": "/yamyamVayzma.github.io/static/js/356.4fb4fb2e.js",
+    "static/media/MaterialCommunityIcons.ttf": "/yamyamVayzma.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/yamyamVayzma.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/yamyamVayzma.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/yamyamVayzma.github.io/static/media/OpenSans-SemiBold.029b9bc9d72f4d799803.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/yamyamVayzma.github.io/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "/yamyamVayzma.github.io/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/yamyamVayzma.github.io/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/OpenSans-Bold.ttf": "/yamyamVayzma.github.io/static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-Regular.ttf": "/yamyamVayzma.github.io/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/AntDesign.ttf": "/yamyamVayzma.github.io/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Entypo.ttf": "/yamyamVayzma.github.io/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/Feather.ttf": "/yamyamVayzma.github.io/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/yamyamVayzma.github.io/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "favicon.ico": "/yamyamVayzma.github.io/favicon.ico",
+    "static/media/phone_call_icon.png": "/yamyamVayzma.github.io/static/media/phone_call_icon.a40e7e0ac0d6246d9800.png",
+    "index.html": "/yamyamVayzma.github.io/index.html",
+    "static/media/ajax-loader.gif": "/yamyamVayzma.github.io/static/media/ajax-loader.fb6f3c230cb846e25247.gif",
+    "static/media/slick.svg": "/yamyamVayzma.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/yamyamVayzma.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/yamyamVayzma.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "favicon-32.png": "/yamyamVayzma.github.io/favicon-32.png",
+    "static/media/slick.woff": "/yamyamVayzma.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "favicon-16.png": "/yamyamVayzma.github.io/favicon-16.png",
+    "postMock.html": "/yamyamVayzma.github.io/postMock.html",
+    "manifest.json": "/yamyamVayzma.github.io/manifest.json",
+    "serve.json": "/yamyamVayzma.github.io/serve.json",
+    "main.32590628.css.map": "/yamyamVayzma.github.io/static/css/main.32590628.css.map",
+    "main.9f5780c2.js.map": "/yamyamVayzma.github.io/static/js/main.9f5780c2.js.map",
+    "356.4fb4fb2e.js.map": "/yamyamVayzma.github.io/static/js/356.4fb4fb2e.js.map"
+  },
+  "entrypoints": [
+    "static/js/356.4fb4fb2e.js",
+    "static/css/main.32590628.css",
+    "static/js/main.9f5780c2.js"
+  ]
+}
